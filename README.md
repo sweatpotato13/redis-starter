@@ -65,6 +65,7 @@
 ### Built With
 
 * [docker](https://www.docker.com/)
+* [redis](https://redis.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
